@@ -25,8 +25,8 @@
   }
   
   .nav .nav-search button{
-      color: blueviolet;
-      border: 1px solid blueviolet;
+      color: rgb(43, 205, 226);
+      border: 1px solid rgb(43, 162, 226);
       height: 39px;
   }
   
@@ -44,16 +44,16 @@
   
   .nav ul a {
       text-decoration: none;
-      color: blueviolet;
+      color: rgb(4, 3, 15);
       cursor: pointer;
   }
   
-  /* h1 a{
+  h1 a{
     color: blueviolet;
     text-decoration: none;
-  } */
+  }
   
-  /* .suggested-search{
+  .suggested-search{
     position: absolute;
     top: 40px;
     z-index: 10;
@@ -61,12 +61,12 @@
     border: 1px solid #ddd;
     background-color: #fff;
     width: 300px;
-  } */
-  /* .suggested-search li {
+  }
+  .suggested-search li {
     padding:5px;
     border: 1px solid #ddd;
-  } */
-  /* .suggested-search li a{
+  }
+  .suggested-search li a{
     cursor: pointer;
     color: blueviolet;
-  } */
+  }
