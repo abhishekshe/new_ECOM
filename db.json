@@ -1,28 +1,16 @@
 {
   "seller": [
     {
-      "name": "Abhishek",
-      "email": "abhishek@gmail.com",
+      "name": "kariya",
       "password": "1234",
+      "email": "kakakakaka",
       "id": 1
     },
     {
-      "name": "tillu",
-      "password": "123",
-      "email": "tillu@gmail.com",
+      "name": "Abhishek Narwariya",
+      "password": "12345",
+      "email": "abhishek@gmail.com",
       "id": 2
-    },
-    {
-      "name": "kallu",
-      "password": "1234",
-      "email": "kallu@gmail.com",
-      "id": 3
-    },
-    {
-      "name": "gullu",
-      "password": "1234",
-      "email": "ewiehf",
-      "id": 4
     }
   ]
 }
