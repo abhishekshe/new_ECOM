@@ -1,16 +1,9 @@
 {
   "seller": [
     {
-      "name": "kariya",
-      "password": "1234",
-      "email": "kakakakaka",
+      "email": "",
+      "password": "",
       "id": 1
-    },
-    {
-      "name": "Abhishek Narwariya",
-      "password": "12345",
-      "email": "abhishek@gmail.com",
-      "id": 2
     }
   ]
 }
